@@ -1,0 +1,1 @@
+Runs `nix-shell --pure` but includes the environment variables that are often needed to create a window. This is useful if you want to create an almost pure shell to run graphical applications.
